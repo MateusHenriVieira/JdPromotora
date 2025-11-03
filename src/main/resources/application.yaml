@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: jd-promotora-api
+server:
+  port: 8080
+
+firebase:
+  credentials:
+    path: classpath:firebase-service-account.json
+  project-id: seu-projeto-id
