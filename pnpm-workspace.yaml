@@ -1,0 +1,3 @@
+packages:
+  - 'apps/*'
+  # Você pode adicionar 'packages/*' depois para libs compartilhadas
