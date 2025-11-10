@@ -15,6 +15,6 @@ public class HelloController {
     @GetMapping("/hello")
     public Map<String, String> hello() {
         // Retorna um objeto Map que o Spring vai converter para JSON
-        return Map.of("message", "Olá do Backend Spring Boot!");
+        return Map.of("message", "Ola do Backend Spring Boot");
     }
 }

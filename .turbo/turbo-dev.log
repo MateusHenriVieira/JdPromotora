@@ -1,24 +1,5 @@
 
-> api@1.0.0 dev /Users/zero/Desktop/JD-Promotora/apps/api
+> api@1.0.0 dev C:\Users\user\Downloads\JD-Promotora\JD-Promotora\apps\api
 > ./gradlew bootRun
 
-Starting a Gradle Daemon, 1 busy and 1 stopped Daemons could not be reused, use --status for details
-
-
-[2A[1B[1m> Starting Daemon[m[17D[1B[1A> IDLE[0K[6D[1B[2A[1m<[0;1m-------------> 0% INITIALIZING [103ms][m[39D[2B[2A[1m<[0;1m-------------> 0% INITIALIZING [199ms][m[39D[2B[2A[1m<[0;1m-------------> 0% INITIALIZING [299ms][m[39D[2B[2A[1m<[0;1m-------------> 0% INITIALIZING [402ms][m[39D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;1m-------------> 0% INITIALIZING [503ms][m[39D[2B[2A[1m<[0;1m-------------> 0% INITIALIZING [601ms][m[39D[2B[2A[1m<[0;1m-------------> 0% INITIALIZING [700ms][m[39D[1B[1m> Evaluating settings > Compiling settings file 'settings.gradle.kts'[m[69D[1B[2A[1m<[0;1m-------------> 0% INITIALIZING [799ms][m[39D[2B[2A[1m<[0;1m-------------> 0% INITIALIZING [903ms][m[39D[2B[2A[1m<[0;1m-------------> 0% INITIALIZING [1s][m[0K[36D[2B[2A[0K
-[31mFAILURE: [39m[31mBuild failed with an exception.[39m[0K
-
-* What went wrong:
-25.0.1
-
-* Try:
-[33m> [39mRun with [1m--stacktrace[m option to get the stack trace.
-[33m> [39mRun with [1m--info[m or [1m--debug[m option to get more log output.
-[33m> [39mRun with [1m--scan[m to get full insights.
-[33m> [39mGet more help at [1mhttps://help.gradle.org[m.
-
-[31;1mBUILD FAILED[0;39m in 2s
-[0K
-[0K
-[2A[1m<[0;1m-------------> 0% WAITING[m[26D[1B[1m> Evaluating settings > Compiling settings file 'settings.gradle.kts'[m[69D[1B[2A[2K[1B[2K[1A[0m[?12l[?25h[41m[30m ELIFECYCLE [39m[49m [31mCommand failed with exit code 1.[39m
-[43m[30m WARN [39m[49m  Local package.json exists, but node_modules missing, did you mean to install?
+'.' n�o � reconhecido como um comando interno

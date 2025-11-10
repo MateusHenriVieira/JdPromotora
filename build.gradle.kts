@@ -33,6 +33,9 @@ dependencies {
 	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 	implementation("com.h2database:h2")
     implementation("com.google.firebase:firebase-admin:9.2.0")
+    implementation(platform("com.google.guava:guava-bom:33.2.1-jre"))
+    implementation(platform("com.google.protobuf:protobuf-bom:3.25.5"))
+    implementation("org.springframework.boot:spring-boot-starter-security")
 
 }
 
